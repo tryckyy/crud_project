@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "679766ebc295e81b4ddcc086"
+  },
+  "bookTitle": "Brave New World",
+  "userName": "Bob",
+  "borrowDate": {
+    "$date": "2025-01-27T10:58:51.595Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "679766ebc295e81b4ddcc087"
+  },
+  "bookTitle": "1984",
+  "userName": "Alice",
+  "borrowDate": {
+    "$date": "2025-01-27T10:58:51.768Z"
+  }
+}]

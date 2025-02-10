@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "679766ebc295e81b4ddcc07b"
+  },
+  "title": "1984",
+  "author": "George Orwell",
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "679766ebc295e81b4ddcc07c"
+  },
+  "title": "Brave New World",
+  "author": "Aldous Huxley",
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "679766ebc295e81b4ddcc07d"
+  },
+  "title": "To Kill a Mockingbird",
+  "author": "Harper Lee",
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "679766ebc295e81b4ddcc07e"
+  },
+  "title": "The Great Gatsby",
+  "author": "F. Scott Fitzgerald",
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "679766ebc295e81b4ddcc07f"
+  },
+  "title": "Moby Dick",
+  "author": "Herman Melville",
+  "available": true
+}]

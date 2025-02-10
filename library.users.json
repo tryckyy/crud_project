@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "679766ebc295e81b4ddcc080"
+  },
+  "name": "Alice",
+  "email": "alice.new@example.com",
+  "adresse": {
+    "zip": "70123",
+    "ville": "Paris"
+  }
+},
+{
+  "_id": {
+    "$oid": "679766ebc295e81b4ddcc082"
+  },
+  "name": "Charlie",
+  "email": "charlie@example.com"
+},
+{
+  "_id": {
+    "$oid": "679766ebc295e81b4ddcc083"
+  },
+  "name": "David",
+  "email": "david@example.com"
+},
+{
+  "_id": {
+    "$oid": "679766ebc295e81b4ddcc084"
+  },
+  "name": "Eve",
+  "email": "eve@example.com"
+}]
